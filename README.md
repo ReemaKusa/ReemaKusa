@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **reemakusa8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1u1hzQ5hY7_shkg5xgek6s7cws2n7DvEc/edit?usp=sharing&ouid=116194950711033708412&rtpof=true&sd=true](https://docs.google.com/document/d/1u1hzQ5hY7_shkg5xgek6s7cws2n7DvEc/edit?usp=sharing&ouid=116194950711033708412&rtpof=true&sd=true)
+- 📄 Know about my experiences https://docs.google.com/document/d/1u1hzQ5hY7_shkg5xgek6s7cws2n7DvEc/edit?usp=sharing&ouid=116194950711033708412&rtpof=true&sd=true
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
