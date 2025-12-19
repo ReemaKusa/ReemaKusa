@@ -10,7 +10,7 @@ Software Engineer | Full-Stack & Mobile Developer | UI/UX Oriented
 </p>
 
 <img align="right" alt="Coding" width="380"
-src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"/>
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ---
 
