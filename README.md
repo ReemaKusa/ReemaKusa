@@ -1,42 +1,123 @@
-
 <h1 align="center">Hi 👋, I'm Reema Kusa</h1>
-<h3 align="center">Front-end developer || Software Engineering student From Palestine</h3>
-<h2 align="left">About me</h2>
-<p align="left">I am eager to apply my technical expertise and problem-solving skills to a dynamic team, where I can contribute to the development of cutting-edge web applications. With a strong foundation in software engineering principles and a passion for staying up-to-date with the latest industry trends, I am confident in my ability to deliver innovative solutions that enhance user experiences. I am excited to collaborate with like-minded individuals, share knowledge, and continuously learn and grow within a supportive and challenging environment.</p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
+<h3 align="center">
+Software Engineer | Full-Stack & Mobile Developer | UI/UX Oriented
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reemakusa&label=Profile%20views&color=0e75b6&style=flat" alt="reemakusa" /> </p>
-
-- 🔭 I am currently training with **OppoTrain**
-
-- 🌱 I’m currently learning **Problem Solving, Java**
-
-- 👨‍💻 All of my projects are available [Here in my Github](Here in my Github)
-
-- 📝 I regularly write articles on [Medium](Medium)
-
-- 📫 How to reach me **reemakusa8@gmail.com**
-
-- 📄 Know about my experiences https://docs.google.com/document/d/1u1hzQ5hY7_shkg5xgek6s7cws2n7DvEc/edit?usp=sharing&ouid=116194950711033708412&rtpof=true&sd=true
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/lgcinkcv-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lgcinkcv-the-bold" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reema-kusa-1a16b42ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reema-kusa-1a16b42ba/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004225423346&locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004225423346&locale=ar_ar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/reema_6mar1902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/reema_6mar1902/" height="30" width="40" /></a>
-<a href="https://medium.com/@reema kusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reema kusa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/reemakusa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/reemakusa/" height="30" width="40" /></a>
+<p align="center">
+📍 Palestine &nbsp;•&nbsp;
+🎓 Computer Science (Software Engineering) Student &nbsp;•&nbsp;
+🚀 Building real-world products
 </p>
 
+<img align="right" alt="Coding" width="380"
+src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemakusa" alt="reemakusa" /></a> </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 👩‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reemakusa&show_icons=true&locale=en&layout=compact" alt="reemakusa" /></p>
+I’m a **Software Engineering student and Software Engineer Intern at OppoTrain** with **620+ hours of hands-on training** in building real-world web and mobile applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reemakusa&show_icons=true&locale=en" alt="reemakusa" /></p>
+I enjoy working across the **full stack** — from crafting clean, user-centered interfaces to designing scalable backend APIs. I have strong foundations in **problem-solving, OOP, data structures**, and I’m passionate about **UI/UX-driven development** that delivers both functionality and great user experience.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reemakusa&" alt="reemakusa" /></p>
+I’m always eager to learn, collaborate, and take ownership of impactful projects 🚀
+
+---
+
+## 🧠 What I’m Working On
+
+- 🔭 Software Engineer Intern at **OppoTrain** (Flutter + Firebase, real-time apps)
+- 🌱 Improving **Problem Solving & Algorithms**
+- 💻 Building **Full-Stack & Mobile Applications**
+- 🎨 Enhancing **UI/UX skills with real products**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
+
+### 🧩 Databases & Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎁 **GiftSense**  
+  AI-powered gifting web app with real-time chat, wishlist, and responsive UI  
+  **Tech:** React, Node.js, Firebase
+
+- 🏨 **StayPal**  
+  Cross-platform booking app with **4 role-based dashboards** and 15+ screens  
+  **Tech:** Flutter, Dart, Firebase
+
+- ✈️ **Travel Booking System**  
+  Desktop application with full CRUD, hotel & flight search  
+  **Tech:** Java, JavaFX, MySQL
+
+- 🛒 **Giftopia (Store + API)**  
+  Full-stack e-commerce platform (Frontend + REST API)  
+  **Tech:** React, Node.js, Express, MongoDB
+
+👉 Check all projects here:  
+🔗 **https://github.com/ReemaKusa**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/reemakusa/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+<a href="https://leetcode.com/u/ReemaKusa/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+</a>
+<a href="https://medium.com/@reemakusa" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
+</a>
+</p>
+
+📫 **Email:** reemakusa@outlook.com
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=reemakusa&show_icons=true&theme=default" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reemakusa" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemakusa&layout=compact" />
+</p>
