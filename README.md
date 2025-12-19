@@ -9,7 +9,7 @@ Software Engineer | Full-Stack & Mobile Developer | UI/UX Oriented
 🚀 Building real-world products
 </p>
 
-<img align="right" alt="Coding" width="380"
+<img align="right" alt="Coding" width="320"
 src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ---
