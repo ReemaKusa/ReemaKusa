@@ -5,7 +5,7 @@ Software Engineer | Full-Stack & Mobile Developer | UI/UX Oriented
 
 <p align="center">
 📍 Palestine &nbsp;•&nbsp;
-🎓 Computer Science (Software Engineering) Student &nbsp;•&nbsp;
+🎓 Computer Science Apprenticeship-CAP (Software Engineering) Student &nbsp;•&nbsp;
 🚀 Building real-world products
 </p>
 
