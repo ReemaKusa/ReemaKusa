@@ -77,7 +77,7 @@ Currently expanding my expertise in software architecture, problem solving, and 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="42"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="42"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
 </p>
@@ -92,18 +92,13 @@ Currently expanding my expertise in software architecture, problem solving, and 
 - REST APIs & Database Integration
 - Frontend-focused Application Development
 
----
-# 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReemaKusa&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemaKusa&layout=compact&theme=tokyonight"/>
-</p>
+# 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemaKusa&theme=tokyonight"/>
 </p>
----
+
 
 ## Connect
 
