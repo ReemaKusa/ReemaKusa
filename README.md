@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Reema Kusa</h1>
-
-<h3 align="center">
-Full-Stack & Mobile Developer • Software Engineering Student • UI/UX Driven Builder
-</h3>
+<h1 align="center">Reema Kusa</h1>
 
 <p align="center">
-Building scalable applications, meaningful user experiences, and real-world digital products 🚀
+Full-Stack & Mobile Application Developer
+</p>
+
+<p align="center">
+Building scalable applications with modern frontend, backend, and mobile technologies.
 </p>
 
 <p align="center">
@@ -24,147 +24,75 @@ Building scalable applications, meaningful user experiences, and real-world digi
 
 ---
 
-<img align="right" alt="coding" width="360"
-src="https://user-images.githubusercontent.com/74038190/216656986-9d566e6e-9f35-4c3f-bfae-7c5d4b2f2b2b.gif"/>
+## About Me
 
-## 👩‍💻 About Me
+Software Engineering student with hands-on experience in full-stack and mobile application development through internships, training programs, and real-world projects.
 
-I’m a Software Engineering student and Software Engineer Intern passionate about building modern web and mobile applications with strong focus on clean architecture, UI/UX, and real-world impact.
+Focused on building responsive frontend experiences, scalable backend systems, and cross-platform mobile applications using modern technologies and clean development practices.
 
-Over the past years, I’ve gained hands-on experience in full-stack development through intensive training programs, internships, and collaborative projects — building responsive interfaces, scalable APIs, and real-time applications.
-
-I enjoy transforming ideas into polished digital experiences using modern technologies across frontend, backend, and mobile development.
-
-### ✨ What Defines Me
-
-- 💡 UI/UX oriented development mindset
-- ⚡ Strong foundation in OOP, Data Structures & Problem Solving
-- 🌍 Passion for impactful and user-centered products
-- 🤝 Team collaboration & continuous learning
-- 🚀 Always exploring new technologies and building projects
+Currently expanding my expertise in software architecture, problem solving, and production-level application development.
 
 ---
 
-## 🧠 Current Focus
+## Tech Stack
 
-- 🔭 Software Engineer Intern at **OppoTrain**
-- 🌱 Improving **Algorithms & Problem Solving**
-- 📱 Building **Cross-Platform Mobile Apps**
-- ⚙️ Developing scalable **Full-Stack Applications**
-- 🎨 Enhancing UI/UX and frontend architecture skills
+### Languages
 
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
 </p>
 
 ---
 
-## ⚙️ Frameworks & Technologies
+### Frontend & Mobile
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42"/>
 </p>
 
 ---
 
-## 🧩 Tools & Platforms
+### Backend & Databases
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="45"/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+### Tools
 
-## 🎁 GiftSense
-AI-powered gifting web application featuring:
-- Real-time AI chat recommendations
-- Wishlist management
-- Responsive UI/UX
-- Modular frontend architecture
-
-**Tech Stack:** React • Node.js • Firebase
-
----
-
-## 🏨 StayPal
-Cross-platform booking application with:
-- 4 role-based dashboards
-- 15+ interactive screens
-- Firebase real-time integration
-- Mobile-first UI design
-
-**Tech Stack:** Flutter • Dart • Firebase
-
----
-
-## ✈️ Travel Booking System
-Desktop booking system supporting:
-- Hotel & flight management
-- Full CRUD operations
-- Persistent database storage
-- Search & filtering system
-
-**Tech Stack:** Java • JavaFX • MySQL
-
----
-
-## 🛒 Giftopia (Store + API)
-Full-stack e-commerce platform including:
-- RESTful API architecture
-- Product browsing & filtering
-- Order flow management
-- Frontend + Backend integration
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/reemakusa/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://leetcode.com/u/ReemaKusa/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
-
-<a href="https://medium.com/@reemakusa" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
-</a>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
 </p>
 
-📫 **Email:** reemakusa@outlook.com
-
 ---
 
+## Experience
+
+- Software Engineer Intern — OppoTrain
+- Full-Stack Development Training
+- Cross-platform Mobile Application Development
+- REST APIs & Database Integration
+- Frontend-focused Application Development
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -175,9 +103,22 @@ Full-stack e-commerce platform including:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemaKusa&theme=tokyonight"/>
 </p>
-
 ---
 
-# ✨ Quote
+## Connect
 
-> “Build solutions that create impact.”
+<p>
+<a href="https://linkedin.com/in/reemakusa/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
+</a>
+
+<a href="https://leetcode.com/u/ReemaKusa/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36"/>
+</a>
+
+<a href="https://medium.com/@s12112910/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36"/>
+</a>
+</p>
+
+  reemakusa@outlook.com
